@@ -1,3 +1,5 @@
+package zAulas;
+
 import java.util.Scanner;
 
 public class repeticao {

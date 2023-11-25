@@ -1,3 +1,5 @@
+package zAulas;
+
 public class funcoesString {
     public static void main(String[] args) {
         String original = "abcde FGHIJ ABC abc DEFG    ";
@@ -10,7 +12,7 @@ public class funcoesString {
         String s07 = original.replace("abc", "xy");
         int i = original.indexOf("bc");
         int j = original.lastIndexOf("bc");
-        //funcao split
+        //Aulas.funcao split
         String s = "potato apple lemon orange";
         String[] vect = s.split(" ");
 

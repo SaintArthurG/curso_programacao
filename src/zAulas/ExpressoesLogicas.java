@@ -1,4 +1,5 @@
-import javax.sound.midi.Soundbank;
+package zAulas;
+
 import java.util.Scanner;
 
 public class ExpressoesLogicas {

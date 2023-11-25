@@ -1,4 +1,5 @@
-import java.util.LinkedHashMap;
+package zAulas;
+
 import java.util.Scanner;
 
 public class Scan {
